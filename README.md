@@ -25,12 +25,10 @@ I’m a Full-Stack Developer with a background in audio engineering and creative
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/RobertoAntonio25"><img src="https://github-readme-stats.vercel.app/api?username=RobertoAntonio25&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RobertoAntonio25's GitHub stats" /></a>
+<a href="http://www.github.com/RobertoAntonio25"><img src="https://github-readme-stats.vercel.app/api?username=RobertoAntonio25&show_icons=true&hide=&count_private=true&title_color=000000&text_color=10b981&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RobertoAntonio25's GitHub stats" /></a>
 
-<a href="http://www.github.com/RobertoAntonio25"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RobertoAntonio25&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/RobertoAntonio25" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoAntonio25&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/RobertoAntonio25"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RobertoAntonio25&stroke=10b981&background=1c1917&ring=000000&fire=000000&currStreakNum=10b981&currStreakLabel=000000&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/RobertoAntonio25/SmartBrains" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RobertoAntonio25&repo=SmartBrains&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/RobertoAntonio25/SmartBrains" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RobertoAntonio25&repo=SmartBrains&title_color=000000&text_color=10b981&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
